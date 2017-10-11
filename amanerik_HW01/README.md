@@ -1,4 +1,4 @@
-a# Homework 1: API for 2D Convolution
+# Homework 1: API for 2D Convolution
 
 ### Course: BME 595
 ### Name: Ankit Manerikar
