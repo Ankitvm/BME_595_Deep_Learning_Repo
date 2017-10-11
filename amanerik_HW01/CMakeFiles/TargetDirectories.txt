@@ -1,0 +1,3 @@
+/home/ankit-rvl/Desktop/BME 595 - Deep Learning/Homework 1/Homework 1/CMakeFiles/rebuild_cache.dir
+/home/ankit-rvl/Desktop/BME 595 - Deep Learning/Homework 1/Homework 1/CMakeFiles/edit_cache.dir
+/home/ankit-rvl/Desktop/BME 595 - Deep Learning/Homework 1/Homework 1/CMakeFiles/main.dir
